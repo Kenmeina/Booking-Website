@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Booking-Website/static/css/main.85838ac8.css",
+    "main.js": "/Booking-Website/static/js/main.103e4a82.js",
+    "static/js/787.adc1714b.chunk.js": "/Booking-Website/static/js/787.adc1714b.chunk.js",
+    "static/media/small_logo.png": "/Booking-Website/static/media/small_logo.2c859235d6c57bb54176.png",
+    "static/media/food1.avif": "/Booking-Website/static/media/food1.d0c2d4f42c8986624d3e.avif",
+    "static/media/littlelemon_logo.png": "/Booking-Website/static/media/littlelemon_logo.d4cae6fac8384c2dae04.png",
+    "index.html": "/Booking-Website/index.html",
+    "main.85838ac8.css.map": "/Booking-Website/static/css/main.85838ac8.css.map",
+    "main.103e4a82.js.map": "/Booking-Website/static/js/main.103e4a82.js.map",
+    "787.adc1714b.chunk.js.map": "/Booking-Website/static/js/787.adc1714b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85838ac8.css",
+    "static/js/main.103e4a82.js"
+  ]
+}
